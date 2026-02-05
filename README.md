@@ -11,7 +11,7 @@ inference rules, normal forms, predicates, and worked examples.
 
 ## 📘 Download
 
-- 📄 **[Download the full course notes (PDF)](Propositional_Logic_Notes.pdf)**
+- 📄 **[Download the full course notes (PDF)](Course_logic.pdf)**
 
 ---
 
